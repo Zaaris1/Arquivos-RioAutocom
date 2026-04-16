@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "python_url": "https://github.com/Zaaris1/Arquivos-RioAutocom/releases/latest/download/python-installer.exe",
-  "connectivity_url": "https://github.com/Zaaris1/Arquivos-RioAutocom/releases/latest/download/connectivity_app.zip",
-  "certtele_url": "https://github.com/Zaaris1/Arquivos-RioAutocom/releases/latest/download/cert_tele_app.zip",
-  "installer_url": "https://github.com/Zaaris1/Arquivos-RioAutocom/releases/latest/download/Pacote_de_monitoramento_RioAutocom.exe"
+  "python_url": "https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe",
+  "connectivity_url": "https://github.com/user-attachments/files/26794752/connectivity_app.zip",
+  "certtele_url": "https://github.com/user-attachments/files/26794751/cert_tele_app.zip",
+  "installer_url": "https://github.com/user-attachments/files/26795280/Pacote_de_monitoramento_RioAutocom.zip"
 }
